@@ -6,7 +6,9 @@ The timer of AuroraStudio
 
 > 由于当年没有留下软件截图，我在22年2月22日问工作室师弟要截图的时候发现，他们在没问过我的情况下，已经对我的计时器进行了改版~~说明我的代码注释好、结构清晰吧~~，框架重构，客户端换了我的壁纸，以及加了卷王图标.. *但我觉得我当时的壁纸会比这个好看*。最重要的是，他们改我项目居然没fork加star，我哭死
 - [他们的改版链接] https://github.com/SGU-AuroraStudio/AuroraTimerServerSSM
-- 师弟改版客户端截图 ![front](./timer_fr.png) ![back](./timer_bc.png)
+- 师弟改版客户端截图   
+![front](./timer_fr.png)   
+![back](./timer_bc.png)
 
 
 项目是在大二寒假，收到师兄的任务后（完成一个可以记录工作室成员每周呆在工作室时长的软件），在寒假自学Java、Web技术、桌面端开发，并设计计时算法、数据库完成，主要功能和设计思路如下：
